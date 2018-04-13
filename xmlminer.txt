@@ -1,0 +1,12 @@
+Aim:To Study Details of  BI tool XLMiner.
+
+Theory:
+XLMiner is a comprehensive data mining add-in for Excel. Data mining is a discovery-driven data analysis technology used for identifying patterns and relationships in data sets. With overwhelming amounts of data now available from transaction systems and external data sources, organizations are presented with increasing opportunities to understand their data and gain insights into it. Data mining is still an emerging field, and is a convergence of fields like statistics, machine learning, and artificial intelligence. 
+XLMiner is a tool belt offering a variety of methods to analyze data. It has extensive coverage of statistical and machine-learning techniques for classification, prediction, affinity analysis, data exploration, and reduction. 
+The XLMiner ribbon is divided into five tabs: Data, Data Analysis, Time Series, Data Mining, and Applying Your Model. 
+Data - This tab includes the Get Data icon. Click Get Data to retrieve a sample from a worksheet or database. Select File Folder to import a collection of text documents located within a file folder. Select Big Data to use Apache Spark to bring big data into Excel.
+Data Analysis - This tab includes four icons: Explore, Transform, Cluster, and Text. Click Explore to use the Chart Wizard, Feature Selection, or view existing charts. Click Transform to transform data sets with missing data, perform binning, or to transform categorical data. 
+
+	Time Series - This tab includes three icons: Partition, ARIMA, and Smoothing. These functions are used when analyzing a time series. 
+	Data Mining - This tab includes four icons: Partition, Classify, Predict, and Associate. These functions are used to perform data mining activities. 
+	Applying Your Model - This tab includes two icons: Score and Help. Click Score to score data in a database or worksheet using the classification or prediction algorithms. Click Help to change the product, check your license status, view data set examples, view the Help File, download the User Guide, check for updates, and view copyright information related to XLMiner.
